@@ -1,0 +1,23 @@
+{
+  "name": "DrawingApp",
+  "version": "0.0.1-1",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*",
+    "node-static": "*"
+  },
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "subdomain": "cjennison-DrawingApp",
+  "engines": {
+    "node": "0.8.x"
+  }
+}
